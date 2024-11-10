@@ -1,0 +1,45 @@
+{
+  "migIndex": 1,
+  "data": [
+    {
+      "path": "assets/fonts/AmiriQuran.ttf",
+      "sha1": "2786429533bb211f68ba50c7a6d705620f048d78"
+    },
+    {
+      "path": "assets/fonts/ArabicFont.otf",
+      "sha1": "23868a63cc7188f94875b97ca0c60a3b1d172919"
+    },
+    {
+      "path": "assets/fonts/KfgqpcHafsUthmanicScriptRegular-1jGEe.ttf",
+      "sha1": "85fc7a75fbdba2976ab4664d80cf39d39705ec73"
+    },
+    {
+      "path": "assets/fonts/KufiFont.ttf",
+      "sha1": "f4a9121ed5fdca38e8e4ddc20ef882c5eba74b02"
+    },
+    {
+      "path": "assets/fonts/me_quran.ttf",
+      "sha1": "98bbd32a4db4ef3f24283dc012fc991452c80eb7"
+    },
+    {
+      "path": "assets/fonts/MUHAMMADIBold.ttf",
+      "sha1": "fc423078ed6bd843707e2baed7355ccfcf61181a"
+    },
+    {
+      "path": "assets/fonts/NaskhFont.ttf",
+      "sha1": "dc817e0d16c1882ab108c47bbaadb1bd64f3b49c"
+    },
+    {
+      "path": "assets/fonts/Poppins.ttf",
+      "sha1": "e2bfcd56016c3c915221ef1c5fc1a17b0776eb91"
+    },
+    {
+      "path": "assets/fonts/Ruwudu-Regular.ttf",
+      "sha1": "2374457241e52ef87417bf2bceedf71eb38301eb"
+    },
+    {
+      "path": "assets/fonts/UthmaniFont.ttf",
+      "sha1": "f6ca9ccbdd06c1c7cbe80c80661fc3c55408c4ad"
+    }
+  ]
+}
